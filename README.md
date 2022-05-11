@@ -1,0 +1,2 @@
+# BSP-methylation
+CpG 1, chr7:27225050–27225629; CpG 2, chr7:27224267–27224596
